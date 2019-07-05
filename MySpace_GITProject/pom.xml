@@ -6,7 +6,7 @@
   <artifactId>GITProject</artifactId>
   <version>1.0.0</version>
   <packaging>kjar</packaging>
-  <name>GITProject</name>
+  <name>GITProject-1</name>
   <description></description>
   <dependencies>
     <dependency>
